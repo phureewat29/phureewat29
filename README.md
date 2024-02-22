@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Phureewat!+%F0%9F%91%8B%F0%9F%8F%BB)](https://github.com/phureewat29)
 
-💻 Engineering Leader with a bachelor's degree in computer engineering and ten years of professional experience.
+⭐️  Engineering Leader with a bachelor's degree in computer engineering and ten years of professional experience.
 
 🏃 T-Shaped profile, although software engineering is my core expertise, I can also revolve around an entrepreneurial mission to bring value in other areas, such as contributing to product management and business development.
 
@@ -10,7 +10,7 @@
 
 🌏 My ultimate career goal is to craft meaningful software to enhance people's lives and drive global decentralized economy adoption.
 
-## 📕 Projects I'm proud of
+## 📚 Projects
 <p align="left">
     <a href="https://github.com/phureewat29/bank-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=phureewat29&repo=bank-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="bank-api"></a>
     <a href="https://github.com/phureewat29/tinyhunter"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=phureewat29&repo=tinyhunter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="tinyhunter"></a>
@@ -20,7 +20,7 @@
     <a href="https://github.com/phureewat29/zksync-era-paymaster"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=phureewat29&repo=zksync-era-paymaster&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="zksync-era-paymaster"></a>
 </p>
 
-## 🙋‍♂️ Connect with me
+## 🙋‍♂️ Stay Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/phureewat/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
