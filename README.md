@@ -21,7 +21,7 @@
 </p>
 
 ## 🙋‍♂️ Connect with me
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/phureewat/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 
