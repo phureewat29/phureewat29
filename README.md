@@ -1,14 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Phureewat!+%F0%9F%91%8B%F0%9F%8F%BB)](https://github.com/phureewat29)
 
-⭐️  Engineering Leader with a bachelor's degree in computer engineering and ten years of professional experience.
-
-🏃 T-Shaped profile, although software engineering is my core expertise, I can also revolve around an entrepreneurial mission to bring value in other areas, such as contributing to product management and business development.
-
-🎯 I’m also focused on leadership and team management, cultivating intrinsic motivation, and developing collaborative culture where everyone can work efficiently to give the most out of themselves.
-
-🧑🏻‍💻 I prefer some programming languages more than others; however, I believe in using the best tool for the job. I’m confident in using new technologies. I enjoy learning new skills to expand my knowledge. I'm very determined, hardworking, and a great problem-solver.
-
-🌏 My ultimate career goal is to craft meaningful software to enhance people's lives and drive global decentralized economy adoption.
+I've over a decade of experience in software engineering and tech-leadership, with expertise that includes Fintech and Blockchain. My passion has always been crafting meaningful software to enhance people's lives and drive global economy adoption. I believe in a world where computers exist only to help humans live better.
 
 ## 📚 Projects
 <p align="left">
